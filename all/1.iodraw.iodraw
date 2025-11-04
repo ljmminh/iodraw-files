@@ -64,8 +64,8 @@
         <mxCell id="A3EFLszyXKYX2B4m90UN-28" value="设置页面显示全屏锁定按钮" style="whiteSpace=wrap;html=1;fontSize=10;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A3EFLszyXKYX2B4m90UN-30" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="540" width="130" height="80" as="geometry" />
+        <mxCell id="A3EFLszyXKYX2B4m90UN-30" value="输入密码" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;align=left;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="520" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

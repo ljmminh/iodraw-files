@@ -44,9 +44,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A3EFLszyXKYX2B4m90UN-23" value="1、左上角的返回图标显示&lt;div style=&quot;font-size: 11px;&quot;&gt;2、允许最小化&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;3、其他应用可以覆盖在上层，可以分屏。&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;4、可以通过手势操作退出当前应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-12.5" y="380" width="195" height="90" as="geometry" />
+          <mxGeometry x="-21.25" y="380" width="212.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="A3EFLszyXKYX2B4m90UN-24" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A3EFLszyXKYX2B4m90UN-24" value="设置页面不显示全屏锁定按钮" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="25" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

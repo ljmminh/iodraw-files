@@ -43,7 +43,7 @@
         <mxCell id="A3EFLszyXKYX2B4m90UN-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A3EFLszyXKYX2B4m90UN-23" target="A3EFLszyXKYX2B4m90UN-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A3EFLszyXKYX2B4m90UN-23" value="1、左上角的返回图标显示&lt;div&gt;2、允许最小化&lt;/div&gt;&lt;div&gt;3、其他应用可以覆盖在上层，可以分屏。&lt;/div&gt;&lt;div&gt;4、可以通过手势操作退出当前应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="A3EFLszyXKYX2B4m90UN-23" value="1、左上角的返回图标显示&lt;div style=&quot;font-size: 11px;&quot;&gt;2、允许最小化&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;3、其他应用可以覆盖在上层，可以分屏。&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;4、可以通过手势操作退出当前应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-12.5" y="380" width="195" height="90" as="geometry" />
         </mxCell>
         <mxCell id="A3EFLszyXKYX2B4m90UN-24" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
